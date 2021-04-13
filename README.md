@@ -8,4 +8,4 @@ I don't have anything open-sourced yet.
 
 There's also a blog devoid of any content:
 
-- https://blog.lbruno.org
+- http://lbruno.org
